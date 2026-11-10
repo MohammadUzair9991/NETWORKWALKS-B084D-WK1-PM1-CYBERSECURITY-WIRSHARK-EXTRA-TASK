@@ -76,13 +76,10 @@ Add your Wireshark screenshots here:
 4. TLS Client Hello
 5. Server Port and TLS Version
 
-## 👨‍💻 Author
-**Mohammad Uzair**
+# 👤 Author
 
-B.Sc. Cyber Security Student | Aspiring SOC Analyst
+**uzair sayyed**\
+Cybersecurity Professional B084
 
-**Skills:** Wireshark | Network Analysis | DNS | TLS | Kali Linux
+LinkedIn: [https://www.linkedin.com/in/waqaskarim/](www.linkedin.com/in/uzer-sayyed-096637442
 
----
-
-⭐ If you find this project useful, feel free to explore the repository!
